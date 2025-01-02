@@ -17,7 +17,6 @@ main{
     position: relative;
     width: 100vw;
     height: 100vh;
-    
 }
 
 .login{
@@ -67,6 +66,7 @@ main{
 
 .submit{
     text-align: center;
+    
 
 }
 
@@ -99,3 +99,5 @@ main{
     background-color: #6CD3CF;
     color: #3b3b3b;
 }
+
+
