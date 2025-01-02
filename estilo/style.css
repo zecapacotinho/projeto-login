@@ -21,6 +21,7 @@ main{
 }
 
 .login{
+    display: block;
     width: 250px;
     height: 500px;
     background-color: #fff;
@@ -30,10 +31,12 @@ main{
     position: relative;
     transform: translate(-50%, -50%);
     overflow: hidden;
+    transition: width .8s, height .8s;
 
 }
 
 .imagem{
+    display: block;
     background: black url(../imagens/animeeee.avif) no-repeat;
     height: 30vh;
     background-position: top center;
@@ -42,6 +45,7 @@ main{
 }
 
 .formulario{
+    display: block;
     font-size: 14px;
     text-align: center;
     padding: 10px;
